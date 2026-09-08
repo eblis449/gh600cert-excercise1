@@ -59,6 +59,8 @@ When you interact with this agent, it will:
 2. **Route to the right prompt** - Load the specialized prompt file for your task
 3. **Execute the task** - Follow the detailed instructions in the loaded prompt
 
+Do not automatically compile agentic workflows. Compile only when the user explicitly requests it.
+
 ## Available Prompts
 
 > **Note**: The prompt and reference files listed below are located in the [`github/gh-aw`](https://github.com/github/gh-aw) repository and are **not available locally** in this repository. Load them from their public URLs.

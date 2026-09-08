@@ -13,6 +13,7 @@ tools:
     mode: gh-proxy
     toolsets: [default]
   edit: true
+  web-fetch:
 network:
   allowed:
     - github.blog
