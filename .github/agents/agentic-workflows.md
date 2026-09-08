@@ -59,7 +59,7 @@ When you interact with this agent, it will:
 2. **Route to the right prompt** - Load the specialized prompt file for your task
 3. **Execute the task** - Follow the detailed instructions in the loaded prompt
 
-Do not automatically compile agentic workflows. Compile only when the user explicitly requests it.
+Do not automatically compile workflows. Only compile an agentic workflow when the user explicitly requests compilation.
 
 ## Available Prompts
 
